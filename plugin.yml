@@ -8,7 +8,7 @@ api:
 
 commands:
  날만져줘:
-  permission: elevator.command
+  permission: 날만져줘.command
   description: 날만져줘 제발 부탁이얏!
   
 //15금 플러그인 주의!

@@ -1,6 +1,6 @@
-name: PleaseThouchMe
+name: PleaseTouchMe
 author: "secreter"
-main: PleaseThouchMe\PleaseThouchMe
+main: PleaseTouchMe\PleaseTouchMe
 version: 1.1.1
 api:
 - 2.0.0

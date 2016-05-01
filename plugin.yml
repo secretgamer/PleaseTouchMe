@@ -1,0 +1,14 @@
+name: PleaseThouchMe
+author: "secreter"
+main: PleaseThouchMe\PleaseThouchMe
+version: 1.1.1
+api:
+- 2.0.0
+- 1.13.0
+
+commands:
+ 날만져줘:
+  permission: elevator.command
+  description: 날만져줘 제발 부탁이얏!
+  
+//15금 플러그인 주의!
